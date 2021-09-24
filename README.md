@@ -1,3 +1,7 @@
+ Fixed compiled file is no more created in /home/user directory, instead next to he not compiled file.
+
+
+
 # linter-gcc
 
 [![Join the chat at https://gitter.im/linter-gcc/Lobby](https://badges.gitter.im/linter-gcc/Lobby.svg)](https://gitter.im/linter-gcc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
