@@ -1,4 +1,4 @@
- Fixed compiled file is no more created in /home/user directory, instead next to he not compiled file.
+ Fixed compiled file is no more created in /home/user directory, instead next to the not compiled file.
 
 
 
