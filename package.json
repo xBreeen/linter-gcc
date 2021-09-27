@@ -1,5 +1,5 @@
 {
-  "name": "linter-gcc",
+  "name": "linter-gcc-breeen",
   "main": "./lib/main",
   "version": "0.9.0",
   "description": "Lint C and C++ source files using gcc / g++",
